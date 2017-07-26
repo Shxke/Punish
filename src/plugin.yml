@@ -1,0 +1,9 @@
+name: Punishment
+main: me.beefstew2007.punishsystem.Main
+author: beefstew2007
+version: 1.0
+description: Easy use punish plugin!
+
+commands:
+    punish:
+        description: Punishment Command
